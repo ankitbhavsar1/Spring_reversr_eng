@@ -1,0 +1,3 @@
+reverse_eng\com\model\User.class
+reverse_eng\com\repository\AddUserRepository.class
+reverse_eng\com\model\UserEmail.class
